@@ -17,6 +17,7 @@ const allData = [
   [`Explore more →`, `探索更多 →`],
   [`Set status`, `设置状态`],
   [`Your profile`, `个人信息`],
+  [`Add account`, `添加账户`],
   [`Your repositories`, `个人仓库`],
   [`Your codespaces`, `你的 codespaces`],
   [`Your projects`, `你的项目`],
